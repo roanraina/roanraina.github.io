@@ -59,7 +59,7 @@ h1 {
     width: 100%;
     grid-area: top;
     display: grid;
-    grid-template-columns: 1fr 450px 450px 1fr;
+    grid-template-columns: 1fr 500px 500px 1fr;
     grid-gap: 2vh;
     grid-template-areas: 
     ". top_content top_profile .";

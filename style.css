@@ -153,3 +153,11 @@ i {
     }
 
 }
+
+@media (prefers-color-scheme: dark) {
+    :root{
+        --text_color: #FFFFFF;
+        --icon_color: #FFFFFF;
+        --background_color: #1c1c1c;
+    }
+}
